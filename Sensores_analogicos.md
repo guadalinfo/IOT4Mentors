@@ -20,4 +20,10 @@ Algunos sensores analógicos:
 
 # Montaje
 
+A partir del ejemplo LCD con DHT (de Sensores atomosféricos) vamos a añadir primero un sensor de humedad
+
+![](https://raw.githubusercontent.com/javacasm/IOT4Mentors/master/images/LCD_DHT_Humedad_bb.png)
+
+Y posteriormente un relé
+
 ![](https://raw.githubusercontent.com/javacasm/IOT4Mentors/master/images/LCD_DHT_Humedad_Rele_bb.png)
