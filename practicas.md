@@ -22,7 +22,7 @@
 
 1. Sensores 3: Medidas de consumo
 
-1. Wifi y control remoto
+1. [Wifi y control remoto](./Wifi.md)
 
 1. HTML y [plataformas de publicación de información](./Plataformas.md)
 
