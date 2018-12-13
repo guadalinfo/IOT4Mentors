@@ -8,30 +8,24 @@
 
 1. Reloj de tiempo real, [RTC](./Reloj_RTC.md)
 
-1. Sensores digitales, de presencia (Alarmas)
+1. Sensores digitales, de presencia ([Alarmas](./Alarma-Rele.md))
 
 1. [Relés y mundo real](./Reles.md)
 
-1. [Medidas analógicas y sensores: sensores de humedad y lluvia](./Sensores_analogicos.md)
+1. Medidas analógicas y sensores: [sensores de humedad](./Riego_automatico.md) y lluvia
 
-1. Activación por sensores: farola automática
+1. Activación por sensores: [farola automática](./Iluminacion_automatica.md)
 
 1. [Sensores 2:  Estación meteorológica](./Sensores_atmosfericos.md)
 
-1. Motores y servos
 
-1. Sensores 3: Medidas de consumo
-
-1. [Wifi y control remoto](./Wifi.md)
+1. Wifi y [control remoto](./RelesWeb.md)
 
 1. HTML y [plataformas de publicación de información](./Plataformas.md)
 
-1. Medida de polución y gases
+1. [Sistema de riego automático](./Riego_automatico.md)
 
-1. Sistema de riego automático
+1. Control desde el móvil ([AppInventor](./appInventor.md))
 
-1. Control desde el móvil ([AppInventor](./appinventor.md))
+1. Control de potencia: [iluminación gradual](./LedPWM.md)
 
-1. Control de potencia: iluminación gradual
-
-1. Casa domótica
